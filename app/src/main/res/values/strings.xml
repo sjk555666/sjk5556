@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">长十郎</string>
+    <string name="channel_id">通知ID</string>
+    <string name="notice_title">NicoNicoNi~</string>
+</resources>
